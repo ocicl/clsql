@@ -1,0 +1,9 @@
+* clsql
+
+CLSQL is a Common Lisp to SQL engine interface
+
+|---------+---------------------------------|
+| source  | git:http://git.kpe.io/clsql.git |
+| commit  | 2c2a20b                         |
+| systems | clsql                           |
+|---------+---------------------------------|
