@@ -7,4 +7,4 @@ CLSQL is a Common Lisp to SQL engine interface
 | commit  | 2c2a20b                         |
 | systems | clsql                           |
 |---------+---------------------------------|
- 
+  
